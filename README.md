@@ -5,6 +5,7 @@ YouTube: https://www.youtube.com/channel/UC1zfP7GYvB2LD-49TQcYInQ?view_as=subscr
 
 Discord: https://www.discord.gg/3HCefjF
 
+Oblivion Bot Invite: https://bradybots.com/
 
 Episode 1: 
 - Info command
