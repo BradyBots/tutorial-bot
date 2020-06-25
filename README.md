@@ -1,0 +1,14 @@
+# tutorial-bot
+Discord.js v12 Basic Bot with Basic Bot Commands
+
+YouTube: https://www.youtube.com/channel/UC1zfP7GYvB2LD-49TQcYInQ?view_as=subscriber
+
+Discord: https://www.discord.gg/3HCefjF
+
+
+Episode 1: 
+- Info command
+- Whois command
+
+Episode 2: 
+- Clear command
