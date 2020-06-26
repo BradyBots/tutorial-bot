@@ -13,3 +13,12 @@ YouTube Episode 1:
 
 YouTube Episode 2: 
 - Clear command
+
+YouTube Episode 3: 
+(COMPLETE MAKEOVER)
+- Command Handler
+- Event Handler 
+- Message Event 
+- Ready Event
+- Info Command 
+- Clear Command
